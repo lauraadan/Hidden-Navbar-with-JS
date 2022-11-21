@@ -1,6 +1,6 @@
 # HIDDEN NAVBAR with JS
 
-![Captura de pantalla 2022-11-11 a las 16 39 25](https://user-images.githubusercontent.com/86961241/201374427-804f28b2-a3f9-4a22-893a-d5289c259a8a.png)
+![Captura de pantalla 2022-11-21 a las 15 13 08](https://user-images.githubusercontent.com/86961241/203076471-02a8ba94-5466-4430-8b0d-7148c81dfb80.png)
 
 
 LINKS
